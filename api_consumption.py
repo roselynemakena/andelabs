@@ -19,5 +19,5 @@ def get_weather_by_city(city):
 	return
 		#errror or data
 
-weathers = get_weather_by_city('Nairobi')
+weathers = get_weather_by_city('London')
 print(weathers)
