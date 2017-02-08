@@ -18,6 +18,5 @@ class User(Project):
 
 
 p = Project("ProjectOne", "A project about contructing a building", "10/03/2017")
-# u = User("MAkena", "Rose", "ProjectOne")
 print(p)
     
